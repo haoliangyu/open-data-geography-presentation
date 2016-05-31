@@ -1,2 +1,3 @@
-# open-data-geography-presentation
-My presentation "Discover the geography of open data on data.gov" at NYGeoCon 2015
+# Discover the geography of open data at Data.gov
+
+My presentation at NYGeoCon 2015
